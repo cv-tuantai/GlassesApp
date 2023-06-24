@@ -1,10 +1,10 @@
 import "./App.css";
-import BaiTapThucHanhLayout from "./BaiTapThucHanhLayout";
+import Glasses from "./baiTapGlasses";
 
 function App() {
   return (
     <div className="App">
-      <BaiTapThucHanhLayout />
+      <Glasses />
     </div>
   );
 }
